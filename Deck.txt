@@ -1,0 +1,4 @@
+J Spades 10 Clubs Q Hearts 10 Diamonds 3 Clubs K Hearts 7 Diamonds Q Clubs 10 Hearts 6 Clubs 4 Hearts K Spades 5 Spades
+3 Diamonds J Diamonds 8 Spades 9 Spades 9 Diamonds 2 Spades A Spades K Clubs Q Spades 7 Hearts 8 Diamonds K Diamonds A Hearts
+9 Hearts J Clubs 8 Hearts 4 Clubs 6 Diamonds 2 Diamonds 5 Diamonds 6 Spades A Clubs 2 Hearts 4 Spades 2 Clubs 7 Spades
+7 Clubs A Diamonds Q Diamonds 3 Spades 5 Hearts 3 Hearts 6 Hearts 8 Clubs 4 Diamonds 5 Clubs 10 Spades J Hearts 9 Clubs
